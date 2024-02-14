@@ -1,7 +1,7 @@
 import Grid from "@mui/material/Grid";
 import SoftBox from "components/SoftBox";
 import DashboardLayout from "examples/LayoutContainers";
-import ProfileInfoCard from "examples/Cards";
+import ProfileInfoCard from "examples/Cards/profile";
 import Header from "layouts/components/Header";
 import { GitHub } from "@mui/icons-material";
 import { Whatsapp } from "layouts/components/icon/icon";

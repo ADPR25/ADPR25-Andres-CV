@@ -40,7 +40,7 @@ function Header() {
         display="flex"
         alignItems="center"
         position="relative"
-        minHeight="18.75rem"
+        minHeight="12rem"
         borderRadius="xl"
         sx={{
           backgroundImage: ({ functions: { linearGradient }, palette: { gradients } }) =>
